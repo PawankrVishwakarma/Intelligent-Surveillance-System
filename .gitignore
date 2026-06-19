@@ -1,0 +1,22 @@
+# Environment
+.env
+venv/
+cv_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model Weights
+models/
+*.pt
+
+# Generated Files
+captures/
+*.jpg
+
+videos/
+*.mp4
+
+# macOS
+.DS_Store
